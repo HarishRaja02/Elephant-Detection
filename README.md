@@ -28,6 +28,7 @@ Designed a real-time *elephant detection system* to mitigate human-elephant conf
 ```sh
 git clone https://github.com/your-username/yolov5-elephant-detection.git
 cd yolov5-elephant-detection
+```
 
 Step 2: Install Dependencies
 sh
