@@ -12,7 +12,8 @@ Designed a real-time *elephant detection system* to mitigate human-elephant conf
 
 ## 📷 Sample Output
 ### 🖼 Image Detection Example:
-![Sample Detection](image.png)
+![image](https://github.com/user-attachments/assets/9cf73621-a26e-41f8-bc3d-c489be9eaa22)
+
 
 ## 📂 Project Structure
 ├── Elephant Detection using yolov5.py      # Main Python script
